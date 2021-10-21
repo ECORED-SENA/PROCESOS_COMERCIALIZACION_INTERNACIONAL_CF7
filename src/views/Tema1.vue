@@ -162,7 +162,7 @@
       .col-lg-10     
         .row 
           p A continuación, algunos ejemplos de los productos que requieren vistos buenos y la entidad que los otorga, ver tabla 1: 
-          p.r-a Tabla 1. Vistos Buenos en Colombia 
+          p.r-a <b>Tabla 1.</b> Vistos Buenos en Colombia 
 
 
 
@@ -175,7 +175,7 @@
               tr
                 td Esmeraldas y piedras preciosas.
                 td MINERCOL
-              tr.l-d
+              tr
                 td 
                   p - Medicamentos.
                   p - Alimentos.
