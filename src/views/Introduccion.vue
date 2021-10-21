@@ -14,7 +14,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+   
     
     p.mb-5 Un país se encuentra en superavitario cuando la cantidad exportada es mayor que la importada y está en déficit, cuando importa más de lo que exporta. Por ejemplo, la balanza comercial colombiana en el periodo comprendido entre enero-mayo del 2021, registró un déficit de US$5.397,4 millones FOB, la cual aumentó respecto a los resultados arrojados en el mismo periodo, pero en el año 2020, año en el cual se presentó un déficit de US$4.033,5 millones FOB. (DANE, 2021).
 
