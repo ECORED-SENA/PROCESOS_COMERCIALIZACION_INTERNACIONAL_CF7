@@ -30,55 +30,55 @@
             th.t10 2021
             th.t20 Valoración Anual %
            
-        tbody
+        tbody.t-center
           tr
             td Otros servicios empresariales
-            td 377,2
-            td 439,0
-            td 16,4
+            td.text-center 377,2
+            td.text-center  439,0
+            td.text-center  16,4
             
           tr
             td Servicios de viaje
-            td 1.165,9
-            td 370,3
-            td -68,2
+            td.text-center  1.165,9
+            td.text-center  370,3
+            td.text-center  -68,2
            
           tr
             td Servicios de transporte
-            td 375,5
-            td 184,4
-            td -50,9
+            td.text-center  d 375,5
+            td.text-center  184,4
+            td.text-center  -50,9
 
           tr
             td Servicios de telecomunicaciones, informática e información
-            td 104,1
-            td 101,2
-            td -2,8            
+            td.text-center  104,1
+            td.text-center  101,2
+            td.text-center  -2,8            
           
           tr
             td Cargos por el uso de propiedad intelectual
-            td 26,3
-            td 27,1
-            td 3,0
+            td.text-center  26,3
+            td.text-center  27,1
+            td.text-center  3,0
 
           tr
             td Servicios personales, culturales y de esparcimiento
-            td 28,6
-            td 19,0
-            td -33,7
+            td.text-center 28,6
+            td.text-center 19,0
+            td.text-center -33,7
 
           tr
             td Servicios de mantenimiento y reparación
-            td 8,4
-            td 3,7
-            td -55,5
+            td.text-center 8,4
+            td.text-center 3,7
+            td.text-center -55,5
 
 
           tr
             td Servicios de manufacturas en insumos físicos que son propiedad de otros
-            td 1,5
-            td 2,5
-            td 61,4
+            td.text-center 1,5
+            td.text-center 2,5
+            td.text-center 61,4
             
     p  En este orden de ideas, es importante hacer énfasis en el sector con mayor cantidad de servicios exportados, los servicios empresariales, los cuales contemplan las siguientes actividades
     .row.fnd-6.p-5.mb-5              
@@ -86,7 +86,7 @@
         ul.lista-ul--separador
           li 
             i.fas.fa-circle.txt
-            | Servicios de call centers.
+            | Servicios de <em>call centers</em>.
           li
             i.fas.fa-circle.txt
             | Servicios contables..
@@ -98,7 +98,7 @@
             | Servicios de consultoría empresarial en administración de empresas y relaciones públicas.
           li 
             i.fas.fa-circle.txt
-            | Servicios jurídicos, investigación y desarrollo I+D,.  
+            | Servicios jurídicos, investigación y desarrollo I+D.  
           li 
             i.fas.fa-circle.txt
             | Servicios de publicidad estudios de mercado y encuestas de opinión pública. 
@@ -131,9 +131,9 @@
             
             p.text-small(numero="3" titulo="Audiovisual ") Oportunidades para exportar servicios de producción y postproducción de contenidos audiovisuales para cine y televisión basado en la alta calidad y experiencia del talento colombiano.  <br> <br><img class="img-300" src="@/assets/tema2/img-3.svg">
 
-            p.text-small(numero="4" titulo="BPO (Business Process Outsourcing)") Gracias a la infraestructura telemática del país, se pueden encontrar oportunidades en la exportación de servicios de ventas, atención al cliente, comercio electrónico, soporte técnico y demás actividades de back office. <br> <br><img class="img-300" src="@/assets/tema2/img-6.svg">
+            p.text-small(numero="4" titulo="BPO (Business Process Outsourcing)") Gracias a la infraestructura telemática del país, se pueden encontrar oportunidades en la exportación de servicios de ventas, atención al cliente, comercio electrónico, soporte técnico y demás actividades de <em>back office.</em> <br> <br><img class="img-300" src="@/assets/tema2/img-6.svg">
 
-            p.text-small(numero="5" titulo="Software") Oportunidades para el desarrollo y comercialización de aplicaciones y programas informáticos que atiendan el mercado corporativo y de consumo masivo de software creado a la medida.  <br> <br><img class="img-300" src="@/assets/tema2/img-7.svg">        
+            p.text-small(numero="5" titulo="<em>Software</em>") Oportunidades para el desarrollo y comercialización de aplicaciones y programas informáticos que atiendan el mercado corporativo y de consumo masivo de <em>software</em> creado a la medida.  <br> <br><img class="img-300" src="@/assets/tema2/img-7.svg">        
 
             p.text-small(numero="6" titulo="Comunicación gráfica y Editorial ") Las oportunidades de exportación del sector editorial contemplan la producción de libros infantiles, técnicos y de referencia escolar. Por su parte, el sector de la comunicación gráfica comprende servicios de impresión publicitaria, comercial, empaques y editorial.  <br> <br><img class="img-300" src="@/assets/tema2/img-8.svg">
 
@@ -163,7 +163,7 @@
               img.img-190.mb-md-3.mb-lg-0(src='@/assets/tema2/img-11.svg')
           .col-lg-9.px-2.fnd-1.align-self-end
             p.text-bold MODO 1 – SUMINISTRO TRANSFRONTERIZO
-            p.mb-0 El servicio cruza la frontera, desde el país del exportador al país del importador, sin que ninguno de los dos se mueva de su territorio. Ejemplo: Call Centers, donde el servicio atraviesa las fronteras colombianas, pero tanto el proveedor como el consumidor se mantienen en su lugar de residencia.
+            p.mb-0 El servicio cruza la frontera, desde el país del exportador al país del importador, sin que ninguno de los dos se mueva de su territorio. Ejemplo: <em>Call Centers</em>, donde el servicio atraviesa las fronteras colombianas, pero tanto el proveedor como el consumidor se mantienen en su lugar de residencia.
 
         .row.mb-5
           .col-lg-3      

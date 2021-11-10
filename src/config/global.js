@@ -146,71 +146,72 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Bancolombia (2021). Documentos de exportación en Colombia.',
+      referencia:
+        'Bancolombia (2021). Documentos de exportación en Colombia.  ',
       link:
         'https://www.grupobancolombia.com/wps/portal/negocios/comercio-internacional/exportar/proceso-aduanero/documentos-exportacion-colombia',
     },
     {
       referencia:
-        'Plazas, G. (2009). Normas de origen y acuerdos comerciales. Cámara de comercio de Bogotá.',
+        'Plazas, G. (2009). Normas de origen y acuerdos comerciales. Cámara de comercio de Bogotá.  ',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11709/1000001101.pdf?seq#:~:text=Las%20normas%20de%20origen%20se,beneficiarios%20de%20una%20preferencia%20arancelaria',
     },
     {
-      referencia: 'DIAN . (2021). Normas de origen y acuerdos comerciales.',
+      referencia: 'DIAN . (2021). Normas de origen y acuerdos comerciales.  ',
       link:
         'https://www.dian.gov.co/atencionciudadano/formulariosinstructivos/Formularios/2014/Formulario_600_2014.pdf',
     },
     {
       referencia:
-        'ekomercio . (2021). Soluciones que generan valor. [Web log post].',
+        'ekomercio . (2021). Soluciones que generan valor. [Web log post].  ',
       link:
         'https://blog.ekomercio.co/novedades-en-tratados-de-doble-tributacion-y-normatividad-interna-de-colombia',
     },
     {
-      referencia: 'DIAN . (2021). Balanza comercial.',
+      referencia: 'DIAN . (2021). Balanza comercial.  ',
       link:
         'https://www.dane.gov.co/index.php/estadisticas-por-tema/comercio-internacional/balanza-comercial#:~:text=Informaci%C3%B3n%20abril%202021&text=5%20millones%20FOB.-,En%20abril%20de%202021%20se%20registr%C3%B3%20un%20d%C3%A9ficit%20en%20la,US%24464%2C0%20mil ',
     },
     {
-      referencia: 'LEGISCOMEX 2021.',
+      referencia: 'LEGISCOMEX 2021.  ',
       link:
         'https://www.legiscomex.com/Documentos/proceso-general-para-exportacion-desde-colombia',
     },
     {
-      referencia: 'LEGISCOMEX. (2021). LEGISCOMEX.',
+      referencia: 'LEGISCOMEX. (2021). LEGISCOMEX.  ',
       link: 'https://www.legiscomex.com/Documentos/vistos_buenos',
     },
     {
       referencia:
-        'Ministerio de Hacienda y Crédito Público. (02 de julio de 2019). Decreto 1165 de 2019. Decreto 1165 de 2019 por el cual se dictan disposiciones relativas al Régimen de aduanas en desarrollo de la ley. Colombia.',
+        'Ministerio de Hacienda y Crédito Público. (02 de julio de 2019). Decreto 1165 de 2019. Decreto 1165 de 2019 por el cual se dictan disposiciones relativas al Régimen de aduanas en desarrollo de la ley. Colombia.  ',
     },
     {
       referencia:
-        'PROCOLOMBIA . (2021). PROCOLOMBIA EXPORTACIONES TURISMO INVERSION MARCA PAÍS.',
+        'PROCOLOMBIA . (2021). PROCOLOMBIA EXPORTACIONES TURISMO INVERSION MARCA PAÍS.  ',
       link:
         'https://www.colombiatrade.com.co/contacto/preguntas-frecuentes/que-es-el-plan-vallejo-para-bienes?__cf_chl_jschl_tk__=pmd_0a965c1620d3e63cf9951eb2a330b1b9c7c95205-1626883472-0-gqNtZGzNAiKjcnBszQji',
     },
     {
       referencia:
-        'PROCOLOMBIA . (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.',
+        'PROCOLOMBIA . (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.  ',
       link:
         'https://www.colombiatrade.com.co/noticias/conozca-el-brochure-de-oferta-exportable-de-colombia-2020',
     },
     {
       referencia:
-        'PROCOLOMBIA . (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.',
+        'PROCOLOMBIA . (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.  ',
       link: 'https://online.fliphtml5.com/qwjio/shge/',
     },
     {
       referencia:
-        'PROCOLOMBIA. (2018). Guía práctica para exportar servicios desde colombia.',
+        'PROCOLOMBIA. (2018). Guía práctica para exportar servicios desde colombia.  ',
       link:
         'https://procolombia.co/publicaciones/guia-practica-para-exportar-servicios-desde-colombia?__cf_chl_jschl_tk__=pmd_2fd74d43376d31e15f3af11b36f2cd703b80b38f-1626894309-0-gqNtZGzNAiKjcnBszQj6',
     },
     {
       referencia:
-        'PROCOLOMBIA. (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.',
+        'PROCOLOMBIA. (2021). PROCOLOMBIA, exportaciones turismo inversión marca país.  ',
       link:
         'https://www.colombiatrade.com.co/oferta-colombiana-en-exportaciones',
     },
@@ -316,23 +317,23 @@ export default {
       },
       {
         nombre: 'Kateryn Valderrama',
-        cargo: 'Experta Técnica',
+        cargo: 'Experta técnica',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
 
       {
         nombre: 'Alejandro Acevedo',
-        cargo: 'Experto Técnico',
+        cargo: 'Experto técnico',
         centro: 'Centro de Comercio - Regional Antioquia',
       },
       {
         nombre: 'Beatriz Eugenia Agudelo Vásquez',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: ' Centro de Gestión Industrial. - Distrito Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
       },
@@ -370,7 +371,7 @@ export default {
       },
       {
         nombre: 'Jorge Leonardo Camacho Pardo',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -381,7 +382,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

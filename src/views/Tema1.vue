@@ -58,7 +58,7 @@
           .col-lg-6.align-self-center
             p.mb-5 Las exportaciones tradicionales se refieren a los bienes que no sufren transformaciones durante su proceso. De acuerdo con la clasificación del DANE (Departamento Administrativo Nacional de Estadísticas), los productos correspondientes a esta categoría son: petróleo, carbón y ferroníquel. Sin embargo, la mayoría de los productos nacionales representan las exportaciones no tradicionales las cuales, en términos generales, generan un amplio uso del manual de procedimientos y requieren innovación y desarrollo para lograr un nivel competitivo de talla mundial. Colombia tiene una oferta exportable diversa que cobija productos post-industriales, manufacturas, prendas y servicios, con presencia en los cinco continentes (PROCOLOMBIA, 2021).
 
-      p.mb-5 Por consiguiente, y con el fin de brindar herramientas a los actuales y futuros exportadores, Procolombia, entidad colombiana encargada de la promoción del turismo, inversión extranjera, exportaciones no minero energéticas y la imagen del país, desarrolló un brochure en el cual se presenta al mundo la oferta exportable colombiana, la descripción de las materias primas, características, portafolio de productos, países con los cuales se han comercializado y estadísticas referentes
+      p.mb-5 Por consiguiente, y con el fin de brindar herramientas a los actuales y futuros exportadores, Procolombia, entidad colombiana encargada de la promoción del turismo, inversión extranjera, exportaciones no minero energéticas y la imagen del país, desarrolló un brochure en el cual se presenta al mundo la oferta exportable colombiana, la descripción de las materias primas, características, portafolio de productos, países con los cuales se han comercializado y estadísticas referentes.
       p.mb-5 Este brochure se compone de 5 capítulos, cada capítulo es una categoría de los productos exportados. Por ejemplo: el capítulo 1. Agroalimentos, lo componen todos los productos provenientes del agro exportables de Colombia (confitería, acuícola, frutas procesadas, lácteos, snacks, panadería, galletería y molinería, cacao, cereales, aceite de palma, café, bebidas sin alcohol, flores, frutas exóticas, frutas tropicales, carne bovina, hierbas aromáticas, frutas y hortalizas procesadas. (PROCOLOMBIA , 2021).
 
     separador
@@ -253,7 +253,7 @@
             figure.mb-4
               img.img-160(src='@/assets/tema1/img-17.svg')
           .col-lg-9
-            p.txt-2.px-2 El mundo natural es quien ofrece el mejor manejo del color, tan solo con observar las plantas y los animales se genera la estimulación visual, que puede cambiar de acuerdo a la hora del día y esto se refleja a través del color que regala la naturaleza en el clima, el sol, la lluvia, el día, la noche, los atardeceres y las estaciones de otoño, invierno, verano y primavera. 
+            p.txt-2.px-2 El formulario de declaración de exportación es un documento que es presentado a la aduana antes de la exportación de la mercancía. Este documento es utilizado por la aduana para cobrar cualquier impuesto y tasa, y también es utilizado para proporcionar datos estadísticos al gobierno. Este formulario se denomina “formulario 600” en el cual se diligencian los datos del exportador, declarante, destinatario, datos del negocio, detalles de la mercancía, transporte, vistos buenos requeridos, entre otros. 
       
       .col-lg-4.mb-5
         a.anexo.mb-4(:href="obtenerLink('/downloads/DI_CF07_anexo_1_DECLARACION DE EXPORTACION Formulario_600_2014.pdf')" target="_blank")
@@ -267,7 +267,7 @@
 
     #t_1_6.titulo-segundo
       h2 1.6  Normas y certificados de origen
-
+    p.mb-5 Actualmente, gracias a los procesos de globalización, se han desarrollado tratados y acuerdos comerciales entre países que permiten la comercialización de bienes y servicios sin mayores obstáculos y restricciones. Algunos de estos requieren que los productos a exportar cumplan con los requerimientos y características deseables en el país de origen, al igual que los productos cuenten con el certificado de ser producidos en uno de los países participantes de la negociación, dicho documento se denomina “certificado de origen”. 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-10
         .row.mb-5
@@ -293,7 +293,7 @@
               p Utilizan insumos, materiales y materias primas originarias en su totalidad de uno de los países miembros del acuerdo
             div(titulo="Productos producidos a partir de materiales no originarios")
               p Cuando no es totalmente obtenido o producido, se requiere una transformación sustancial de las materias primas, partes o componentes utilizados para la elaboración del producto en el territorio de un país miembro del acuerdo comercial. Ejemplo: Importar albaricoques de España de la subpartida 08.09.10 para producir en Colombia mermelada de la partida 20.07.
-            div(titulo="Cambio de clasificación capitulo, partida o subpartida")
+            div(titulo="Cambio de clasificación capítulo, partida o subpartida")
               p Dependiendo del acuerdo, se exigirá uno de los tres con base en el sistema armonizado. Significa un cambio de capítulo, partida o subpartida de los insumos, materiales y materia prima con respecto al producto final. Se establece dependiendo del producto.
             div(titulo="Valor agregado")
               p Generalmente se permite que haya un proceso de producción pero que no genere cambio de clasificación. En este caso, se exige un contenido mínimo de insumos nacionales o un tope máximo de extranjeros.
